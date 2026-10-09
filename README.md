@@ -57,5 +57,4 @@ Contributions are welcomed! Read the [Contributing Guide](CONTRIBUTING.md) for m
 ### Licensing
 
 This project is licensed under the MIT. See [LICENSE](LICENSE) for more information.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
